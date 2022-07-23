@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
     $('.owl-carousel').owlCarousel({
         
@@ -14,7 +15,7 @@ $(document).ready(function(){
             1000:{
                 items:5
             }
-        }
+        };
         
     });
 });
